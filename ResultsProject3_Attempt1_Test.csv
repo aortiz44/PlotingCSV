@@ -1,0 +1,630 @@
+{
+  "Problems": {
+    "Challenge Problem D-12": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-12",
+      "Correct Answer": "6",
+      "Agent's Answer": "7"
+    },
+    "Challenge Problem D-10": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-10",
+      "Correct Answer": "5",
+      "Agent's Answer": "3"
+    },
+    "Challenge Problem D-11": {
+      "Correct?": "Skipped",
+      "Problem": "Challenge Problem D-11",
+      "Correct Answer": "5",
+      "Agent's Answer": "-1"
+    },
+    "Challenge Problem D-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-09",
+      "Correct Answer": "7",
+      "Agent's Answer": "8"
+    },
+    "Challenge Problem D-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-08",
+      "Correct Answer": "1",
+      "Agent's Answer": "5"
+    },
+    "Challenge Problem B-10": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-10",
+      "Correct Answer": "4",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-11": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-11",
+      "Correct Answer": "5",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem D-07": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-07",
+      "Correct Answer": "4",
+      "Agent's Answer": "5"
+    },
+    "Challenge Problem D-06": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-06",
+      "Correct Answer": "6",
+      "Agent's Answer": "2"
+    },
+    "Challenge Problem D-01": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-01",
+      "Correct Answer": "2",
+      "Agent's Answer": "6"
+    },
+    "Challenge Problem D-03": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-03",
+      "Correct Answer": "1",
+      "Agent's Answer": "8"
+    },
+    "Challenge Problem D-02": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-02",
+      "Correct Answer": "1",
+      "Agent's Answer": "2"
+    },
+    "Challenge Problem D-05": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-05",
+      "Correct Answer": "2",
+      "Agent's Answer": "8"
+    },
+    "Challenge Problem C-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem C-08",
+      "Correct Answer": "1",
+      "Agent's Answer": "5"
+    },
+    "Challenge Problem C-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem C-09",
+      "Correct Answer": "7",
+      "Agent's Answer": "6"
+    },
+    "Challenge Problem D-04": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem D-04",
+      "Correct Answer": "6",
+      "Agent's Answer": "2"
+    },
+    "Challenge Problem C-04": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem C-04",
+      "Correct Answer": "8",
+      "Agent's Answer": "8"
+    },
+    "Challenge Problem C-05": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem C-05",
+      "Correct Answer": "4",
+      "Agent's Answer": "4"
+    },
+    "Challenge Problem C-06": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem C-06",
+      "Correct Answer": "7",
+      "Agent's Answer": "2"
+    },
+    "Challenge Problem C-07": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem C-07",
+      "Correct Answer": "3",
+      "Agent's Answer": "7"
+    },
+    "Challenge Problem C-01": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem C-01",
+      "Correct Answer": "7",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem C-02": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem C-02",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Challenge Problem C-03": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem C-03",
+      "Correct Answer": "3",
+      "Agent's Answer": "3"
+    },
+    "Challenge Problem B-12": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem B-12",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem E-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-08",
+      "Correct Answer": "7",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem E-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-09",
+      "Correct Answer": "1",
+      "Agent's Answer": "5"
+    },
+    "Challenge Problem E-02": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem E-02",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Challenge Problem E-03": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-03",
+      "Correct Answer": "5",
+      "Agent's Answer": "7"
+    },
+    "Challenge Problem E-01": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem E-01",
+      "Correct Answer": "6",
+      "Agent's Answer": "6"
+    },
+    "Challenge Problem E-06": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-06",
+      "Correct Answer": "7",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem E-07": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-07",
+      "Correct Answer": "5",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem E-04": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-04",
+      "Correct Answer": "5",
+      "Agent's Answer": "4"
+    },
+    "Challenge Problem E-05": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-05",
+      "Correct Answer": "6",
+      "Agent's Answer": "2"
+    },
+    "Challenge Problem B-07": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-07",
+      "Correct Answer": "6",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-06": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-06",
+      "Correct Answer": "3",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-05": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-05",
+      "Correct Answer": "6",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-04": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-04",
+      "Correct Answer": "4",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-03": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-03",
+      "Correct Answer": "3",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-02": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem B-02",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-01": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-01",
+      "Correct Answer": "6",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem C-12": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem C-12",
+      "Correct Answer": "2",
+      "Agent's Answer": "2"
+    },
+    "Challenge Problem C-11": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem C-11",
+      "Correct Answer": "4",
+      "Agent's Answer": "4"
+    },
+    "Challenge Problem C-10": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem C-10",
+      "Correct Answer": "3",
+      "Agent's Answer": "4"
+    },
+    "Challenge Problem B-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-09",
+      "Correct Answer": "4",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem B-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem B-08",
+      "Correct Answer": "4",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem D-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem D-08",
+      "Correct Answer": "4",
+      "Agent's Answer": "6"
+    },
+    "Basic Problem D-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem D-09",
+      "Correct Answer": "3",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem D-02": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-02",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem D-03": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-03",
+      "Correct Answer": "3",
+      "Agent's Answer": "3"
+    },
+    "Basic Problem D-01": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-01",
+      "Correct Answer": "3",
+      "Agent's Answer": "3"
+    },
+    "Basic Problem D-06": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-06",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem D-07": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-07",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem D-04": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem D-04",
+      "Correct Answer": "1",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem D-05": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-05",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Basic Problem E-12": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem E-12",
+      "Correct Answer": "6",
+      "Agent's Answer": "8"
+    },
+    "Basic Problem E-10": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem E-10",
+      "Correct Answer": "8",
+      "Agent's Answer": "8"
+    },
+    "Basic Problem E-11": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem E-11",
+      "Correct Answer": "5",
+      "Agent's Answer": "8"
+    },
+    "Challenge Problem E-11": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem E-11",
+      "Correct Answer": "3",
+      "Agent's Answer": "3"
+    },
+    "Challenge Problem E-10": {
+      "Correct?": "Correct",
+      "Problem": "Challenge Problem E-10",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Challenge Problem E-12": {
+      "Correct?": "Incorrect",
+      "Problem": "Challenge Problem E-12",
+      "Correct Answer": "5",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem D-11": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-11",
+      "Correct Answer": "3",
+      "Agent's Answer": "3"
+    },
+    "Basic Problem D-10": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem D-10",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem D-12": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem D-12",
+      "Correct Answer": "3",
+      "Agent's Answer": "6"
+    },
+    "Basic Problem E-05": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem E-05",
+      "Correct Answer": "5",
+      "Agent's Answer": "5"
+    },
+    "Basic Problem E-04": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem E-04",
+      "Correct Answer": "8",
+      "Agent's Answer": "3"
+    },
+    "Basic Problem E-07": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem E-07",
+      "Correct Answer": "3",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem E-06": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem E-06",
+      "Correct Answer": "8",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem E-01": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem E-01",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem E-03": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem E-03",
+      "Correct Answer": "2",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem E-02": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem E-02",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Basic Problem E-09": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem E-09",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Basic Problem E-08": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem E-08",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem C-10": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-10",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Basic Problem C-11": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-11",
+      "Correct Answer": "4",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem C-12": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem C-12",
+      "Correct Answer": "8",
+      "Agent's Answer": "5"
+    },
+    "Basic Problem B-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-08",
+      "Correct Answer": "6",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-09",
+      "Correct Answer": "5",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-04": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-04",
+      "Correct Answer": "3",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-05": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-05",
+      "Correct Answer": "4",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-06": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-06",
+      "Correct Answer": "5",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-07": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-07",
+      "Correct Answer": "6",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-01": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-01",
+      "Correct Answer": "2",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-02": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-02",
+      "Correct Answer": "5",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-03": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem B-03",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem C-07": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-07",
+      "Correct Answer": "2",
+      "Agent's Answer": "2"
+    },
+    "Basic Problem C-06": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-06",
+      "Correct Answer": "7",
+      "Agent's Answer": "7"
+    },
+    "Basic Problem C-05": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem C-05",
+      "Correct Answer": "3",
+      "Agent's Answer": "2"
+    },
+    "Basic Problem C-04": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-04",
+      "Correct Answer": "8",
+      "Agent's Answer": "8"
+    },
+    "Basic Problem C-03": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem C-03",
+      "Correct Answer": "4",
+      "Agent's Answer": "6"
+    },
+    "Basic Problem C-02": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-02",
+      "Correct Answer": "4",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem C-01": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem C-01",
+      "Correct Answer": "3",
+      "Agent's Answer": "3"
+    },
+    "Basic Problem C-09": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem C-09",
+      "Correct Answer": "2",
+      "Agent's Answer": "4"
+    },
+    "Basic Problem C-08": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem C-08",
+      "Correct Answer": "5",
+      "Agent's Answer": "2"
+    },
+    "Basic Problem B-12": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem B-12",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-11": {
+      "Correct?": "Correct",
+      "Problem": "Basic Problem B-11",
+      "Correct Answer": "1",
+      "Agent's Answer": "1"
+    },
+    "Basic Problem B-10": {
+      "Correct?": "Incorrect",
+      "Problem": "Basic Problem B-10",
+      "Correct Answer": "3",
+      "Agent's Answer": "1"
+    }
+  },
+  "Sets": {
+    "Challenge Problems E": {
+      "Incorrect": "8",
+      "Skipped": "0",
+      "Correct": "4",
+      "Set": "Challenge Problems E"
+    },
+    "Basic Problems D": {
+      "Incorrect": "4",
+      "Skipped": "0",
+      "Correct": "8",
+      "Set": "Basic Problems D"
+    },
+    "Challenge Problems D": {
+      "Incorrect": "11",
+      "Skipped": "1",
+      "Correct": "0",
+      "Set": "Challenge Problems D"
+    },
+    "Basic Problems E": {
+      "Incorrect": "6",
+      "Skipped": "0",
+      "Correct": "6",
+      "Set": "Basic Problems E"
+    },
+    "Basic Problems B": {
+      "Incorrect": "9",
+      "Skipped": "0",
+      "Correct": "3",
+      "Set": "Basic Problems B"
+    },
+    "Basic Problems C": {
+      "Incorrect": "5",
+      "Skipped": "0",
+      "Correct": "7",
+      "Set": "Basic Problems C"
+    },
+    "Challenge Problems C": {
+      "Incorrect": "6",
+      "Skipped": "0",
+      "Correct": "6",
+      "Set": "Challenge Problems C"
+    },
+    "Challenge Problems B": {
+      "Incorrect": "10",
+      "Skipped": "0",
+      "Correct": "2",
+      "Set": "Challenge Problems B"
+    }
+  }
+}
