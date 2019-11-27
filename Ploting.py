@@ -79,11 +79,11 @@ class ResultPlotter:
                 element.SetIncorrect(value)
 
     def plotAll(self):
-        self.new_plot_stacked('ResultsProject3_Attempt1_Full.csv', 3)
-        self.new_plot_stacked('ResultsProject3_Attempt2_Full.csv', 3)
-        self.new_plot_stacked('ResultsProject3_Attempt3_Full.csv', 3)
-        self.new_plot_stacked('ResultsProject3_Attempt4_Full.csv', 3)
-        self.new_plot_stacked('ResultsProject3_Attempt5_Full.csv', 3)
+        self.new_plot_stacked('ResultsProject3_Attempt1_Test.csv', 3)
+        # self.new_plot_stacked('ResultsProject3_Attempt2_Full.csv', 3)
+        # self.new_plot_stacked('ResultsProject3_Attempt3_Full.csv', 3)
+        # self.new_plot_stacked('ResultsProject3_Attempt4_Full.csv', 3)
+        # self.new_plot_stacked('ResultsProject3_Attempt5_Full.csv', 3)
 
         # self.new_plot_stacked('ResultsProject2_Attempt3_Full.csv')
         # self.new_plot_stacked('ResultsProject2_Attempt4_Full.csv')
